@@ -1,0 +1,880 @@
+2017-05-15 8:55:46 - PHP Notice:  Undefined index: vnptepay_text_field in E:\xampp183\htdocs\vnptepay\admin\controller\module\vnptepay.php on line 118
+2017-05-15 9:02:22 - PHP Notice:  Undefined index: vnptepay_text_field in E:\xampp183\htdocs\vnptepay\admin\controller\module\vnptepay.php on line 118
+2017-05-15 9:02:22 - PHP Notice:  Undefined variable: text_ws_url in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 29
+2017-05-15 9:02:22 - PHP Notice:  Undefined variable: text_ws_url in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 31
+2017-05-15 9:02:22 - PHP Notice:  Undefined variable: vnptepay_ws_url in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 31
+2017-05-15 9:04:02 - PHP Notice:  Undefined variable: text_ws_url in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 29
+2017-05-15 9:04:02 - PHP Notice:  Undefined variable: text_ws_url in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 31
+2017-05-15 9:07:59 - PHP Notice:  Undefined variable: vnptepay_partner_name in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 40
+2017-05-15 9:07:59 - PHP Notice:  Undefined variable: vnptepay_partner_password in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 49
+2017-05-15 9:07:59 - PHP Notice:  Undefined variable: vnptepay_key_sofpin in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 58
+2017-05-15 9:07:59 - PHP Notice:  Undefined variable: vnptepay_time_out in E:\xampp183\htdocs\vnptepay\admin\view\template\module\vnptepay.tpl on line 67
+2017-05-15 9:10:44 - PHP Notice:  Undefined index: vnptepay_partner_name in E:\xampp183\htdocs\vnptepay\admin\controller\module\vnptepay.php on line 150
+2017-05-15 9:10:44 - PHP Notice:  Undefined index: vnptepay_partner_password in E:\xampp183\htdocs\vnptepay\admin\controller\module\vnptepay.php on line 153
+2017-05-15 9:10:44 - PHP Notice:  Undefined index: vnptepay_key_sofpin in E:\xampp183\htdocs\vnptepay\admin\controller\module\vnptepay.php on line 156
+2017-05-15 9:10:44 - PHP Notice:  Undefined index: vnptepay_time_out in E:\xampp183\htdocs\vnptepay\admin\controller\module\vnptepay.php on line 159
+2017-05-15 9:15:49 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/default/template/module/vnptepay.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-15 9:16:09 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/default/template/module/vnptepay.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-15 9:18:04 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/default/template/module/vnptepay.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-15 9:18:07 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/default/template/module/vnptepay.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: column_left in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 3
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: column_left in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 4
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: column_left in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 6
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: column_right in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 6
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: content_top in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 12
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: content_bottom in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 12
+2017-05-15 9:52:45 - PHP Notice:  Undefined variable: column_right in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-15 11:32:58 - PHP Notice:  Undefined variable: entry_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 52
+2017-05-15 11:34:50 - PHP Notice:  Indirect modification of overloaded property ControllerCommonHome::$error has no effect in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 52
+2017-05-15 11:34:50 - PHP Notice:  Indirect modification of overloaded property ControllerCommonHome::$error has no effect in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 55
+2017-05-15 11:34:50 - PHP Notice:  Indirect modification of overloaded property ControllerCommonHome::$error has no effect in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 58
+2017-05-15 11:36:46 - PHP Notice:  Indirect modification of overloaded property ControllerCommonHome::$error has no effect in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 52
+2017-05-15 11:36:46 - PHP Notice:  Indirect modification of overloaded property ControllerCommonHome::$error has no effect in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 55
+2017-05-15 11:36:46 - PHP Notice:  Indirect modification of overloaded property ControllerCommonHome::$error has no effect in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 58
+2017-05-15 11:53:41 - PHP Notice:  Constant HTTP_SERVER already defined in E:\xampp183\htdocs\vnptepay\config.php on line 3
+2017-05-15 11:53:41 - PHP Notice:  Constant HTTPS_SERVER already defined in E:\xampp183\htdocs\vnptepay\config.php on line 6
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_APPLICATION already defined in E:\xampp183\htdocs\vnptepay\config.php on line 9
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_SYSTEM already defined in E:\xampp183\htdocs\vnptepay\config.php on line 10
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_IMAGE already defined in E:\xampp183\htdocs\vnptepay\config.php on line 11
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_LANGUAGE already defined in E:\xampp183\htdocs\vnptepay\config.php on line 12
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_TEMPLATE already defined in E:\xampp183\htdocs\vnptepay\config.php on line 13
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_CONFIG already defined in E:\xampp183\htdocs\vnptepay\config.php on line 14
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_CACHE already defined in E:\xampp183\htdocs\vnptepay\config.php on line 15
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_DOWNLOAD already defined in E:\xampp183\htdocs\vnptepay\config.php on line 16
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_LOGS already defined in E:\xampp183\htdocs\vnptepay\config.php on line 17
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_MODIFICATION already defined in E:\xampp183\htdocs\vnptepay\config.php on line 18
+2017-05-15 11:53:41 - PHP Notice:  Constant DIR_UPLOAD already defined in E:\xampp183\htdocs\vnptepay\config.php on line 19
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_DRIVER already defined in E:\xampp183\htdocs\vnptepay\config.php on line 22
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_HOSTNAME already defined in E:\xampp183\htdocs\vnptepay\config.php on line 23
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_USERNAME already defined in E:\xampp183\htdocs\vnptepay\config.php on line 24
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_PASSWORD already defined in E:\xampp183\htdocs\vnptepay\config.php on line 25
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_DATABASE already defined in E:\xampp183\htdocs\vnptepay\config.php on line 26
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_PORT already defined in E:\xampp183\htdocs\vnptepay\config.php on line 27
+2017-05-15 11:53:41 - PHP Notice:  Constant DB_PREFIX already defined in E:\xampp183\htdocs\vnptepay\config.php on line 28
+2017-05-15 11:53:41 - PHP Notice:  Undefined variable: config in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 21
+2017-05-15 11:53:41 - PHP Notice:  Undefined variable: config in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 22
+2017-05-15 12:07:20 - PHP Warning:  file_get_contents(key/private_key.pem): failed to open stream: No such file or directory in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 113
+2017-05-15 12:07:20 - PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 115
+2017-05-15 12:08:04 - PHP Warning:  file_get_contents(key/private_key.pem): failed to open stream: No such file or directory in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 113
+2017-05-16 5:39:28 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:39:28 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:39:28 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:39:28 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:39:28 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:39:28 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:40:22 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:40:22 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:40:22 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:40:22 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:40:22 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:40:22 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:40:50 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:40:50 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:40:50 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:40:50 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:40:50 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:40:50 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:41:44 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:41:44 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:41:44 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:41:44 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:41:44 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:41:44 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:42:05 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:42:05 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:42:05 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:42:05 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:42:05 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:42:05 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:42:17 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:42:17 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:42:17 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:42:17 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:42:17 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:42:17 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:42:34 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:42:34 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:42:34 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:42:34 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:42:34 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:42:34 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:42:40 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:42:40 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:42:40 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:42:40 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:42:40 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:42:40 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:44:36 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:44:36 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:44:36 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:44:36 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:44:36 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:44:36 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:45:27 - PHP Notice:  Trying to get property of non-object in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 47
+2017-05-16 5:45:27 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:45:27 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:45:27 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:45:27 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:45:27 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:45:27 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:45:47 - PHP Warning:  Illegal string offset 'listCards' in E:\xampp183\htdocs\vnptepay\catalog\controller\common\home.php on line 47
+2017-05-16 5:45:47 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:45:47 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:45:47 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:45:47 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:45:47 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:45:47 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:46:06 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:46:06 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:46:06 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:46:06 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:46:06 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:46:06 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:46:55 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:46:55 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:46:55 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:46:55 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:46:55 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:46:55 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:48:36 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:48:36 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:48:36 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:48:36 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:48:36 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:48:36 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 5:54:18 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 5:54:18 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 5:54:18 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 5:54:18 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 5:54:18 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 5:54:18 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 6:02:53 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 6:02:53 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 6:02:53 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 6:02:53 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 6:02:53 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 6:02:53 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 6:10:11 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 6:10:11 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 6:10:11 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 6:10:11 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 6:10:11 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 6:10:11 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 8:45:24 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 8:45:24 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 8:45:24 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 8:45:24 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 8:45:24 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 8:45:24 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 8:46:00 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 8:46:00 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 8:46:00 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 8:46:00 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 8:46:00 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 8:46:00 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 8:46:10 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 8:46:10 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 8:46:10 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 8:46:10 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 8:46:10 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 8:46:10 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 8:47:02 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 8:47:02 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 8:47:02 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 8:47:02 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 8:47:02 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 8:47:02 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 9:11:52 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 9:11:52 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 15
+2017-05-16 9:11:52 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 9:11:52 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 45
+2017-05-16 9:11:52 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 55
+2017-05-16 9:11:52 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 80
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:22:08 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 83
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:23:22 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 83
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: success_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 72
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 89
+2017-05-16 10:27:43 - PHP Notice:  Undefined variable: success_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 72
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: success_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 72
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 89
+2017-05-16 10:30:03 - PHP Notice:  Undefined variable: success_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 72
+2017-05-16 10:31:36 - PHP Notice:  Undefined variable: error_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 69
+2017-05-16 10:31:36 - PHP Notice:  Undefined variable: success_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 72
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:33:11 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 89
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:46:22 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 114
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:46:49 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 114
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:47:44 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 114
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:53:39 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:55:29 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:56:31 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 10:58:49 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 11:05:07 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 11:07:33 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 1
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 16
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 25
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 41
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 47
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 56
+2017-05-16 11:08:25 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\home.tpl on line 121
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-16 11:31:46 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-16 12:13:12 - PHP Notice:  Undefined variable: error_mess in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\balance.tpl on line 7
+2017-05-16 12:20:20 - PHP Notice:  Undefined variable: currentpage in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\header.tpl on line 84
+2017-05-16 12:20:20 - PHP Notice:  Undefined variable: currentpage in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\header.tpl on line 85
+2017-05-16 13:00:28 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/module/vnptepay/redownloadpin.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-16 13:02:28 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/module/vnptepay/redownloadpin.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-16 13:03:07 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-16 13:03:07 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-16 13:03:07 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-16 13:03:07 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-16 13:03:07 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-17 3:46:33 - PHP Notice:  Undefined variable: class in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\common\header.tpl on line 40
+2017-05-17 5:34:20 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-17 5:34:20 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-17 5:34:20 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-17 5:34:20 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-17 5:34:20 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-17 5:44:54 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-17 6:03:38 - PHP Notice:  Undefined index: password in E:\xampp183\htdocs\vnptepay\catalog\controller\module\vnptepay.php on line 127
+2017-05-17 6:05:28 - PHP Notice:  Undefined index: password in E:\xampp183\htdocs\vnptepay\catalog\controller\module\vnptepay.php on line 127
+2017-05-17 6:19:27 - PHP Notice:  Undefined index: password in E:\xampp183\htdocs\vnptepay\catalog\controller\module\vnptepay.php on line 126
+2017-05-17 8:09:55 - PHP Notice:  Error: Could not load template E:/xampp183/htdocs/vnptepay/catalog/view/theme/default/template/module/checktransaction.tpl! in E:\xampp183\htdocs\vnptepay\system\library\template\php.php on line 23
+2017-05-17 8:10:34 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-17 8:10:34 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-17 8:10:34 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-17 8:10:34 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-17 8:10:34 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 43
+2017-05-17 8:27:39 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-17 8:27:39 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-17 8:27:39 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-17 8:27:39 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-17 8:27:39 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-17 8:37:22 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-17 8:37:22 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-17 8:37:22 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-17 8:37:22 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-17 8:37:22 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-17 8:37:59 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-17 8:37:59 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-17 8:37:59 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-17 8:37:59 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-17 8:37:59 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-17 8:38:11 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-17 8:38:11 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-17 8:38:11 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-17 8:38:11 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-17 8:38:11 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-17 8:40:22 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-17 11:17:27 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-17 11:17:27 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-17 11:17:27 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-17 11:17:27 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-17 11:17:27 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-17 11:47:59 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-17 11:47:59 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-17 11:47:59 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-17 11:47:59 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-17 11:47:59 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-17 11:49:30 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-17 11:49:30 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-17 11:49:30 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-17 11:49:30 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-17 11:49:30 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-17 11:50:31 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-17 12:20:52 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-18 5:30:27 - PHP Notice:  Undefined variable: binary_signature in E:\xampp183\htdocs\vnptepay\catalog\controller\module\vnptepay.php on line 433
+2017-05-18 5:30:51 - PHP Notice:  Undefined variable: binary_signature in E:\xampp183\htdocs\vnptepay\catalog\controller\module\vnptepay.php on line 433
+2017-05-18 5:31:16 - PHP Notice:  Undefined variable: binary_signature in E:\xampp183\htdocs\vnptepay\catalog\controller\module\vnptepay.php on line 433
+2017-05-18 5:37:08 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-18 5:37:08 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-18 5:37:08 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-18 5:37:08 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-18 5:37:08 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA.php on line 232
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\MathLoader.php on line 120
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 211
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 301
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 207
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 279
+2017-05-18 6:34:25 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 294
+2017-05-18 6:35:55 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\MathLoader.php on line 120
+2017-05-18 6:35:55 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 211
+2017-05-18 6:35:55 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 301
+2017-05-18 6:35:55 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 207
+2017-05-18 6:35:55 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 279
+2017-05-18 6:35:55 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 294
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_EXT already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 35
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_WRAPPERS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 44
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_FILE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 49
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_CLASS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 54
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY_TYPE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 59
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_EXP_GE_MOD already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 64
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_MISSING_KEY_LEN already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 69
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 74
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_HASH_FUNC already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 79
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PRV_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 84
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PUB_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 89
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_PARAMS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 94
+2017-05-18 6:36:28 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_TAIL already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 99
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_EXT already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 35
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_WRAPPERS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 44
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_FILE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 49
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_CLASS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 54
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY_TYPE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 59
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_EXP_GE_MOD already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 64
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_MISSING_KEY_LEN already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 69
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 74
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_HASH_FUNC already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 79
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PRV_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 84
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PUB_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 89
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_PARAMS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 94
+2017-05-18 6:36:48 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_TAIL already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 99
+2017-05-18 6:37:09 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\MathLoader.php on line 120
+2017-05-18 6:37:09 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 211
+2017-05-18 6:37:09 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 301
+2017-05-18 6:37:09 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 207
+2017-05-18 6:37:09 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 279
+2017-05-18 6:37:09 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 294
+2017-05-18 6:37:38 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\MathLoader.php on line 120
+2017-05-18 6:37:38 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 211
+2017-05-18 6:37:38 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\Key.php on line 301
+2017-05-18 6:37:38 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 207
+2017-05-18 6:37:38 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 279
+2017-05-18 6:37:38 - PHP Unknown:  Assigning the return value of new by reference is deprecated in E:\xampp183\php\pear\Crypt\RSA\KeyPair.php on line 294
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_EXT already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 35
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_WRAPPERS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 44
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_FILE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 49
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_CLASS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 54
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY_TYPE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 59
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_EXP_GE_MOD already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 64
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_MISSING_KEY_LEN already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 69
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 74
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_HASH_FUNC already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 79
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PRV_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 84
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PUB_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 89
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_PARAMS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 94
+2017-05-18 6:38:24 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_TAIL already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 99
+2017-05-18 6:39:32 - PHP Warning:  require_once(E:/xampp183/htdocs/vnptepay/catalog/controller/module/PEAR.php): failed to open stream: No such file or directory in E:\xampp183\htdocs\vnptepay\catalog\controller\module\Crypt\RSA\ErrorHandler.php on line 28
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_EXT already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 35
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_WRAPPERS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 44
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_FILE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 49
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_NO_CLASS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 54
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY_TYPE already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 59
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_EXP_GE_MOD already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 64
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_MISSING_KEY_LEN already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 69
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 74
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_HASH_FUNC already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 79
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PRV_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 84
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_NEED_PUB_KEY already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 89
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_PARAMS already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 94
+2017-05-18 8:11:02 - PHP Notice:  Constant CRYPT_RSA_ERROR_WRONG_TAIL already defined in E:\xampp183\php\pear\Crypt\RSA\ErrorHandler.php on line 99
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-18 8:21:35 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-18 9:00:07 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-18 9:06:32 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-18 9:07:18 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-18 9:07:18 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-18 9:07:18 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-18 9:07:18 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-18 9:07:18 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-18 9:07:29 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-18 9:07:29 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-18 9:07:29 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-18 9:07:29 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-18 9:07:29 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-18 9:07:52 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-18 9:07:52 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-18 9:07:52 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-18 9:07:52 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-18 9:07:52 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-18 9:08:08 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 1
+2017-05-18 9:08:08 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 8
+2017-05-18 9:08:08 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 12
+2017-05-18 9:08:08 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 21
+2017-05-18 9:08:08 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\redownloadpin.tpl on line 82
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-18 9:13:52 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-18 9:23:25 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-25 9:16:10 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-05-25 9:16:57 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-25 9:16:57 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-25 9:16:57 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-25 9:16:57 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-25 9:16:57 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-25 9:17:28 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 1
+2017-05-25 9:17:28 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 8
+2017-05-25 9:17:28 - PHP Notice:  Undefined variable: error_request_id in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 12
+2017-05-25 9:17:28 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 21
+2017-05-25 9:17:28 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\checktrans.tpl on line 46
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: header in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 1
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: action in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 16
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: error_provider in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 25
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: error_amount in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 41
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: error_quantity in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 47
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: error_password in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 56
+2017-05-25 9:18:13 - PHP Notice:  Undefined variable: footer in E:\xampp183\htdocs\vnptepay\catalog\view\theme\default\template\module\vnptepay.tpl on line 121
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-16 8:56:33 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 121
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-16 9:55:22 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 121
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-17 2:27:20 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 121
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-19 3:34:17 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 121
+2017-06-19 3:35:08 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 1
+2017-06-19 3:35:08 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 8
+2017-06-19 3:35:08 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 12
+2017-06-19 3:35:08 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 21
+2017-06-19 3:35:08 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 82
+2017-06-19 3:35:16 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 1
+2017-06-19 3:35:16 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 8
+2017-06-19 3:35:16 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 12
+2017-06-19 3:35:16 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 21
+2017-06-19 3:35:16 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 82
+2017-06-19 3:35:29 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 1
+2017-06-19 3:35:29 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 8
+2017-06-19 3:35:29 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 12
+2017-06-19 3:35:29 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 21
+2017-06-19 3:35:29 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 46
+2017-06-19 3:52:42 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 1
+2017-06-19 3:52:42 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 8
+2017-06-19 3:52:42 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 12
+2017-06-19 3:52:42 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 21
+2017-06-19 3:52:42 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 46
+2017-06-19 3:52:46 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 1
+2017-06-19 3:52:46 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 8
+2017-06-19 3:52:46 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 12
+2017-06-19 3:52:46 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 21
+2017-06-19 3:52:46 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 46
+2017-06-19 3:52:54 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 1
+2017-06-19 3:52:54 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 8
+2017-06-19 3:52:54 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 12
+2017-06-19 3:52:54 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 21
+2017-06-19 3:52:54 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 82
+2017-06-19 3:53:17 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 1
+2017-06-19 3:53:17 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 8
+2017-06-19 3:53:17 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 12
+2017-06-19 3:53:17 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 21
+2017-06-19 3:53:17 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 82
+2017-06-19 3:53:51 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 1
+2017-06-19 3:53:51 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 8
+2017-06-19 3:53:51 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 12
+2017-06-19 3:53:51 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 21
+2017-06-19 3:53:51 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 46
+2017-06-19 4:03:14 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 1
+2017-06-19 4:03:14 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 8
+2017-06-19 4:03:14 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 12
+2017-06-19 4:03:14 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 21
+2017-06-19 4:03:14 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 82
+2017-06-20 3:39:16 - PHP Warning:  file_get_contents(E:/xampp183/htdocs/vnptepay/catalog/controller/common/key/private_key.pem): failed to open stream: No such file or directory in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 494
+2017-06-20 3:39:16 - PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 497
+2017-06-20 3:42:45 - PHP Warning:  file_get_contents(E:/xampp183/htdocs/vnptepay/catalog/controller/common/key/private_key.pem): failed to open stream: No such file or directory in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 494
+2017-06-20 3:42:45 - PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 497
+2017-06-20 3:42:47 - PHP Warning:  file_get_contents(E:/xampp183/htdocs/vnptepay/catalog/controller/common/key/private_key.pem): failed to open stream: No such file or directory in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 494
+2017-06-20 3:42:47 - PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 497
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-21 7:04:40 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 121
+2017-06-21 7:06:13 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 1
+2017-06-21 7:06:13 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 8
+2017-06-21 7:06:13 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 12
+2017-06-21 7:06:13 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 21
+2017-06-21 7:06:13 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/checktrans.tpl on line 46
+2017-06-21 9:34:01 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 1
+2017-06-21 9:34:01 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 8
+2017-06-21 9:34:01 - PHP Notice:  Undefined variable: error_request_id in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 12
+2017-06-21 9:34:01 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 21
+2017-06-21 9:34:01 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/redownloadpin.tpl on line 82
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:22:58 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:12 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:23:16 - PHP Notice:  Use of undefined constant error_code - assumed 'error_code' in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/historytransaction.tpl on line 65
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-22 10:40:19 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-26 2:10:27 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-26 2:11:08 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-06-26 2:11:33 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-07-14 9:48:59 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-07-20 13:16:52 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-08-30 10:55:21 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-09-01 10:10:56 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-09-01 10:14:37 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-09-01 10:15:35 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-09-01 10:16:40 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-09-01 10:17:36 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-13 2:05:16 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-13 2:07:26 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-18 3:32:00 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-18 3:32:41 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-18 3:33:09 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-19 8:44:29 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-20 7:51:31 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-10-20 7:53:15 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-11-03 10:51:05 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-11-04 4:53:02 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-11-06 3:41:35 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-11-16 2:18:27 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2017-12-13 4:39:44 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2018-01-09 9:39:00 - PHP Notice:  Trying to get property of non-object in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 48
+2018-01-09 9:39:00 - PHP Notice:  Trying to get property of non-object in /usr/share/nginx/www/vnptepay/catalog/controller/module/vnptepay.php on line 83
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2018-01-09 9:39:00 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: header in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 1
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: action in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 16
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: error_provider in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 25
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: error_amount in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 41
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: error_quantity in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 47
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: error_password in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 56
+2018-01-09 9:39:38 - PHP Notice:  Undefined variable: footer in /usr/share/nginx/www/vnptepay/catalog/view/theme/default/template/module/vnptepay.tpl on line 127
